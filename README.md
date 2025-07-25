@@ -4,7 +4,7 @@ This is a full stack Ukulele tuner app using Vite (React) for the frontend and E
 
 ## Project Structure
 - `client/` - Vite React frontend
-- `server/` - Express/Node backend
+- `server/` - Express/Node backend with MongoDB to store user preferences
 
 ## Getting Started
 
