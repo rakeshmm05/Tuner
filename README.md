@@ -21,6 +21,3 @@ This is a full stack Ukulele tuner app using Vite (React) for the frontend and E
 ## Development
 - The frontend runs on Vite's default port (usually 5173)
 - The backend runs on port 3001 by default
-
-## Custom Copilot Instructions
-See `.github/copilot-instructions.md` for workspace-specific Copilot guidance.
